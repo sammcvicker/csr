@@ -8,8 +8,8 @@ Unlike with normal flash cards, **csr** only requires you to name or describe wh
 
 **pipx** makes for the easiest installation ([see **pipx** installation page](https://pipx.pypa.io/latest/installation/)):
 
-1. Download the [v0.1.3 wheel](./dist/csr-0.1.3-py3-none-any.whl)
-2. Run `pipx install csr-0.1.3-py3-none-any.whl`
+1. Download the [v0.1.3 wheel](./dist/csr-0.1.4-py3-none-any.whl)
+2. Run `pipx install csr-0.1.4-py3-none-any.whl`
 
 ## Usage
 
